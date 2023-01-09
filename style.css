@@ -170,3 +170,18 @@ body {
     width: 60%;
   }
 }
+@media (max-width: 24em) {
+  .primary-heading {
+    font-size: 3.6rem;
+  }
+  .secondary-heading {
+    font-size: 3rem;
+  }
+  .head-img {
+    width: 60%;
+  }
+  .footer-text {
+    font-size: 1.4rem;
+    letter-spacing: 0.75px;
+  }
+}
